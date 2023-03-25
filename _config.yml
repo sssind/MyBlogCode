@@ -102,4 +102,6 @@ theme: volantis
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: git@github.com:sssind/sssind.github.io.git
+  branch: master
