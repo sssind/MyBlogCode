@@ -1,9 +1,13 @@
 ---
-title: Hello World
+layout: post
+title: Hello World 你好世界
+categories: [技术教程,新手教程]
+tags: 教程
+author: winter8
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## Quick Start test01
 
 ### Create a new post
 
