@@ -10,7 +10,8 @@ keywords:
 author: John Doe
 language: en
 timezone: ''
-
+# 网站图标
+favicon: https://i.328888.xyz/2023/03/25/iAaLo5.png
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
